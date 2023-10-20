@@ -1,5 +1,3 @@
----
-
 # Word Error Rate (WER) Calculator
 
 This project provides a Python-based tool for computing the Word Error Rate (WER) between two texts. WER is a common metric used to measure the performance of speech recognition, machine translation, and other systems that produce sequences of words. It represents the ratio of the number of insertions, deletions, and substitutions to the number of words in the reference.
@@ -60,3 +58,5 @@ Feel free to fork this repository, make changes, and submit pull requests. Any c
 This project is licensed under the MIT License. See `LICENSE` for more information.
 
 ---
+
+Developed by [Your Name]. For any queries, contact [your@email.com].
