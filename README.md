@@ -1,5 +1,4 @@
-# WER-calculator
-Word Error Rate (WER) Calculator
+```
 
 # Word Error Rate (WER) Calculator
 
