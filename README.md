@@ -14,7 +14,7 @@ The main function, `wer(reference, hypothesis)`, calculates the WER between the 
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/wer-calculator.git
+git clone https://github.com/btrinos/wer-calculator.git
 ```
 
 2. Change to the project directory:
