@@ -58,5 +58,3 @@ Feel free to fork this repository, make changes, and submit pull requests. Any c
 This project is licensed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-Developed by [Your Name]. For any queries, contact [your@email.com].
